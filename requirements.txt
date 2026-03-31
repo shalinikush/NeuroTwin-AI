@@ -1,8 +1,5 @@
-streamlit
+flask
 tensorflow
 numpy
-pandas
-matplotlib
 pillow
-scikit-learn
-gdown
+gunicorn
