@@ -26,3 +26,8 @@ models/detection_model/brain_tumor_cnn.keras
 
 ## Author
 Shalini Kush
+
+
+## Detailed Documentation
+For complete system explanation and technical details:
+docs/PROJECT_DETAILS.md
