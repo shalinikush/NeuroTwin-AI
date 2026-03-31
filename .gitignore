@@ -1,3 +1,7 @@
-models/
+__pycache__/
+*.pyc
+.env
+.vscode/
 *.keras
 *.h5
+data/
